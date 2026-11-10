@@ -14,7 +14,7 @@ Each agent is set up the same way:
 1. **Get the kit and upload the 5 skills.** Upload them in Settings → Customize → Skills → Add → Upload skill. The prompt is in `prompts/Get_the_Kit.md`.
 2. **Connect your tools:** Gmail, Google Calendar, Google Drive, Google Docs, Google Sheets, ClickUp. Add Zoom if you record calls in the Zoom cloud.
 3. **Run the connection check.** The prompt is in `prompts/Connection_Check.md`.
-4. **Build the two homes:** folders in Google Drive for your clients, plus the sheets the agents use. One person does this once. The prompt is in `prompts/Build_the_Two_Homes.md`.
+4. **Build the two homes:** folders in Google Drive for your clients, plus the sheets the agents use. One person does this once, then shares the Team Workspace folder and the Team Settings doc with the team. The prompt is in `prompts/Build_the_Two_Homes.md`.
 
 Your Google admin must first turn on the Google connectors for the team and mark Claude as Trusted in Google admin.
 
@@ -102,7 +102,7 @@ Start small. Set up the night check on day one. Add the faster jobs only if you 
 | What | How it starts | Time to set up | Extra cost | When |
 |---|---|---|---|---|
 | The 3 agents' schedules | Scheduled task in Claude | 5 minutes each | None | Day 1 |
-| **Night check** (catches anything missed today) | Scheduled task, every night at 10 PM | 5 minutes | None | **Day 1** |
+| **Night check** (catches anything missed today) | Scheduled task, every night at 10 PM, one per person | 5 minutes | None | **Day 1** |
 | Email job | Scheduled task, every hour | 5 minutes | None | Week 1 |
 | Client documents job | Scheduled task, Mondays at 8 AM | 5 minutes | None | Week 1 |
 | Zoom recordings → recap the same hour | Claude routine + Zapier | About 30 minutes | Zapier paid plan | Week 2, if the night check feels too slow |
@@ -122,7 +122,7 @@ The steps for every job are in the `data-jobs` skill. The schedule prompts are i
 ## Every day
 
 - **Before a call:** read the brief in the private Prep event on your calendar.
-- **After a call:** save your notes in the Notes folder, or give Claude the transcript: `Use the meeting-prep skill in recap mode on this transcript.`
+- **After a call:** save your notes in the Notes folder, or give Claude the transcript: `Use the meeting-prep skill in recap mode on this transcript. Create each promise as a ClickUp task tagged "proposed".`
 - **In the morning:** open your Gmail drafts, edit the follow-ups, and send the good ones.
 - **In ClickUp:** tasks the agents add are tagged **proposed**. Remove the tag to say yes, or delete the task.
 - **Fixed the same thing twice?** Add one line to your Prep Profile (about you) or to the team-voice skill (about the team).

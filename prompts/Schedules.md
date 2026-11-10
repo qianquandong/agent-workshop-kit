@@ -26,16 +26,16 @@ Use the follow-up-nudger skill on my mailbox. Create follow-up drafts only, neve
 Use the retainer-intelligence skill for each client in our Client Map that has a renewal date. Last 90 days. Give me the health check and the alerts for each one, and save each progress report as a DRAFT. Also tell me which clients renew in the next 60 days.
 ```
 
-## Night check · every night at 10 PM
+## Night check · every night at 10 PM · each person sets their own
 
 ```
 Create a scheduled task that runs every night at 10 PM.
 
-Each run: use the data-jobs skill and run the night-check job. Check that today's work landed: compare today's Zoom recordings, files in the Notes folder, GoHighLevel calls and texts (if that job is on), and emails with Client Map contacts against today's Contact Log. For anything missing, do what its job would have done: file it, log it, write the recap, propose the tasks. Add a Run Log row for everything you caught up on, then write me a short Gmail draft listing anything you couldn't match.
+Each run: use the data-jobs skill and run the night-check job. Check that today's work landed: compare today's Zoom recordings, files in the Notes folder, GoHighLevel calls and texts (if that job is on), and emails with Client Map contacts against today's Contact Log. For anything missing, do what its job would have done: file it, log it, write the recap, propose the tasks. Also run the tasks job for today's Contact Log rows of type notes, recap or call that have no ClickUp tasks yet. Add a Run Log row for everything you caught up on, then write me a short Gmail draft listing anything you couldn't match.
 ```
 
 ## After a call · whenever you need it (not scheduled)
 
 ```
-Use the meeting-prep skill in recap mode on this transcript. Save the recap to the client's folder, add a Contact Log row and give me the follow-up email draft. Its promises become ClickUp tasks tagged "proposed" on their own.
+Use the meeting-prep skill in recap mode on this transcript. Save the recap to the client's folder, add a Contact Log row, create each promise as a ClickUp task tagged "proposed", and give me the follow-up email draft.
 ```

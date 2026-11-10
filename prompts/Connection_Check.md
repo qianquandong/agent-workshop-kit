@@ -8,7 +8,7 @@ Run a connection check for my agent setup. Check each tool below with ONE small 
 1. Gmail: my 3 most recent emails (date and subject only).
 2. Shared inbox: if my team has a shared address (like info@), 1 recent email sent to it. If none is visible, say so.
 3. Google Calendar: tomorrow's meetings: time, title, number of attendees.
-4. Google Drive: find "Client Map", then my 3 most recently edited files.
+4. Google Drive: my 3 most recently edited files. (We build the Client Map later today, so don't look for it yet.)
 5. Google Docs and Sheets: open the newest Doc and the newest Sheet you can find; tell me their titles. Then say whether you could edit a Doc and add a row to a Sheet. Don't do it.
 6. ClickUp: my workspaces and spaces; one list and its number of open tasks.
 7. GoHighLevel: if connected, the pipeline names and contacts in one of them.

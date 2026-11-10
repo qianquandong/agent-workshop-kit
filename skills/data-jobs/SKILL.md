@@ -22,7 +22,7 @@ Every job here can run three ways, and does the same thing each time:
 
 ## Where things live
 
-- Drive: Team Settings (a Doc: our internal email domain, who is on the team, the system owner, the sales owners, our program names), Client Map, Contact Log, CRM Check, Client Experience, Nudge Log, Run Log (all Sheets); Notes folder; Inbox › Transcripts; Unsorted; `Clients/[Client]/` with 00 Client Summary, 02 Recaps, 03 Proposals & Contracts, 04 Workbooks & Handouts, 05 Research, Private (Transcripts, Coaching Notes).
+- Drive: Team Settings (a Doc: our internal email domain, who is on the team, the system owner, the sales owners, our program names), Client Map, Contact Log, CRM Check, Client Experience, Nudge Log, Run Log (all Sheets); Notes folder; Inbox › Transcripts; Unsorted; `Team Workspace/Clients/[Client]/` with 00 Client Summary, 02 Recaps, 03 Proposals & Contracts, 04 Workbooks & Handouts, 05 Research; each client's private folder (Transcripts, Coaching Notes) lives in `Private – coaches only/[Client]/`, outside Team Workspace, and its link is in the Client Map.
 - ClickUp: each client's record and list. GoHighLevel: sales pipelines, calls and texts. Gmail and Google Calendar.
 
 ## The jobs
@@ -70,7 +70,7 @@ For new or changed events (or the next 7 days, by hand) with outside guests: che
 **Too old:** no calendar run in the last day.
 
 ### 11. night-check
-Compare today's Zoom recordings, Notes files, GHL calls and texts (if used) and client emails with today's Contact Log. Run the matching job for anything missing. Add Run Log rows, then a short Gmail draft listing anything you couldn't match.
+Compare today's Zoom recordings, Notes files, GHL calls and texts (if used) and client emails with today's Contact Log. Run the matching job for anything missing. Then run the tasks job for today's notes, recap and call rows that have no ClickUp tasks yet. Add Run Log rows, then a short Gmail draft listing anything you couldn't match. Each person runs their own night check: it sees that person's email and Zoom; the Run Log stops two people doing the same file twice.
 **Too old:** no night-check run in the last 26 hours.
 
 ## When data is too old (catch-up)
