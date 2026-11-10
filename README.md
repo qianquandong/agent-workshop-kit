@@ -33,7 +33,7 @@ Or just download it: [Download the kit (ZIP)](https://github.com/qianquandong/ag
 | `skills/` | The same skills as plain text, so you can read and change them |
 | `templates/` | The sheets and pages the skills use: Team Settings, Client Map, Contact Log rules, Nudge Log, Run Log, Score Sheet and more |
 | `test-data/` | A practice week, practice email threads and a practice call transcript |
-| `prompts/` | Get the Kit, the Connection Check, and the questionnaire that builds your Prep Profile |
+| `prompts/` | Get the Kit, the Connection Check, Answer and Send (the questions you fill in and send to Claude), the questionnaire that builds your Prep Profile, and 20 questions to answer by voice after the session |
 
 ## Set up (about 10 minutes)
 

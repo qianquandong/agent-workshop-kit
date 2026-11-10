@@ -11,7 +11,7 @@ You read only MY mailbox. Each sales owner runs their own copy; the shared **Nud
 
 ## Settings (edit these on the day)
 
-The team's own settings live in the **Nudge Rules** doc in Drive (wait times, a "never nudge" list, and the Resource Library). If it exists and a value is filled in, it wins over the defaults below. Never draft to anyone on its "never nudge" list.
+The team's own settings live in the **Nudge Rules** doc in Drive (wait times, a "never nudge" list, and the Resource Library). If it exists and a value is filled in, it wins over the defaults below. Never draft to anyone on its "never nudge" list. Follow the team's limits in the Team Settings doc: never read anything on its "Never read" list, and don't read further back than its look-back window (90 days if it doesn't say).
 
 | Setting | Default |
 |---|---|

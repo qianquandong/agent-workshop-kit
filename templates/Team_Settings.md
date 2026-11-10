@@ -14,3 +14,17 @@ Make your own copy as a Google Doc named "Team Settings" in your Drive and put i
 - Our ideal client: <who we serve best>
 - Shared inbox, if any: <address, and who reads it>
 - Can anyone else edit my calendar? <yes / no>
+
+## Decisions
+
+- Set up these 5 clients first: <names>
+- Look back: 90 days
+- Never read: <for example personal health details, HR matters, a named client>
+- Things the AI can't reach, and what we do about each: <paper notes, voice memos, texts on a cell phone>
+- How we tell clients about recording and AI: <one line>
+- Calls and texts on personal phones: <leave out / log by voice / move to a GHL number>
+
+## Warning signs
+
+- Keep the defaults, except: <changes>
+- Each number comes from: who showed up <sheet>, CSAT <sheet>, goals <doc>, sponsor contact <log>, delivery <ClickUp list>

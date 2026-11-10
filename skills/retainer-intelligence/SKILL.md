@@ -30,6 +30,8 @@ Period: the last 30 days by default (or what the user asks for), plus the full c
 
 If a source is missing, write "not available" for it. Never estimate a number.
 
+Follow the team's limits in the Team Settings doc: never read anything on its "Never read" list, and don't read further back than its look-back window (90 days if it doesn't say). If Team Settings has a "Warning signs" section, use its numbers and its sources instead of the defaults below.
+
 ## Output 1. Client health snapshot (internal only)
 
 | Signal | Green | Amber | Red |
