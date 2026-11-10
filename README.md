@@ -8,6 +8,8 @@ Everything for a hands-on workshop where a small team builds three Claude agents
 
 All people, companies and numbers in the practice data are made up.
 
+**New here?** Read [How_to_Use.md](How_to_Use.md): what to set up once, and how to use it every day.
+
 ## Get it
 
 Paste this into Claude:
@@ -33,6 +35,7 @@ Or just download it: [Download the kit (ZIP)](https://github.com/qianquandong/ag
 | `skills/` | The same skills as plain text, so you can read and change them |
 | `templates/` | The sheets and pages the skills use: Team Settings, Client Map, Contact Log rules, Nudge Log, Run Log, Score Sheet and more |
 | `test-data/` | A practice week, practice email threads and a practice call transcript |
+| `How_to_Use.md` | Set up once, then use it every day: every step, who does it, and the prompts to schedule each agent |
 | `prompts/` | Get the Kit, the Connection Check, Answer and Send (the questions you fill in and send to Claude), the questionnaire that builds your Prep Profile, and 20 questions to answer by voice after the session |
 
 ## Set up (about 10 minutes)
@@ -40,6 +43,8 @@ Or just download it: [Download the kit (ZIP)](https://github.com/qianquandong/ag
 1. Upload the 5 zips from `skill-zips/` in Claude: Settings → Customize → Skills.
 2. Make your own **Team Settings** doc in Google Drive (the Get it prompt does this with you).
 3. Run `prompts/Connection_Check.md` to see which tools are connected.
+
+The full guide, with the team steps and the prompts to schedule each agent, is in [How_to_Use.md](How_to_Use.md).
 
 ## Try it on the practice data
 
