@@ -1,6 +1,6 @@
 ---
 name: retainer-intelligence
-description: For one retainer client at a time, reads session recaps/transcripts, CSAT and engagement data and turns them into (1) a sponsor-safe progress report draft, (2) testimonial candidates that still need written consent, and (3) renewal, expansion and risk flags with evidence. Use for the monthly client review, 60/30 days before a renewal, or when asked "how is <client> doing?".
+description: For one retainer client at a time, reads session recaps/transcripts, CSAT and engagement data and turns them into (1) a sponsor-safe progress report draft, (2) testimonial candidates that still need written consent, and (3) renewal, expansion and risk flags with evidence. Use for the monthly client review, 60/30 days before a renewal, or when asked "how is this client doing?".
 ---
 
 # Retainer Intelligence
