@@ -1,0 +1,6 @@
+client,program,role,name,email,email_domain,coach_owner,drive_folder_link,private_folder_link,clickup_list,ghl_contact_link,contract_start,renewal_date,notes
+Northbeam Energy (FICTIONAL),Team Program,Sponsor,Rachel Ortiz,rachel.ortiz@northbeam-example.com,northbeam-example.com,Sam,<paste link>,<paste link>,Clients / Northbeam,<paste link>,2026-03-01,2027-01-15,VP People; sponsor for 6 participants
+Northbeam Energy (FICTIONAL),Team Program,Coachee,Dana Reyes,dana.reyes@northbeam-example.com,northbeam-example.com,Sam,<paste link>,<paste link>,Clients / Northbeam,,2026-03-01,2027-01-15,Director of Operations
+Lakeside Health (FICTIONAL),Leader Program,Coachee,Priya Shah,priya.shah@lakeside-example.org,lakeside-example.org,Alex,<paste link>,<paste link>,Clients / Lakeside,,2026-06-01,2026-12-20,SVP Clinical Ops
+Lakeside Health (FICTIONAL),Leader Program,Sponsor,Mark Ellison,mark.ellison@lakeside-example.org,lakeside-example.org,Alex,<paste link>,<paste link>,Clients / Lakeside,<paste link>,2026-06-01,2026-12-20,CHRO
+Trinity Steel (FICTIONAL),,Prospect,Carla Mendes,cmendes@trinitysteel-example.com,trinitysteel-example.com,Sam,,,Pipeline,<paste link>,,,Met at the Spring Summit; proposal sent 10/28

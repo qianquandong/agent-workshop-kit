@@ -1,0 +1,7 @@
+client,participant,session_date,session_number,booked,attended,csat_1to5,workbook_done,notes
+Lakeside Health (FICTIONAL),Priya Shah,2026-08-05,4,yes,yes,4.8,yes,
+Lakeside Health (FICTIONAL),Priya Shah,2026-08-26,5,yes,yes,4.7,yes,
+Lakeside Health (FICTIONAL),Priya Shah,2026-09-16,6,yes,no,,no,rescheduled same day
+Lakeside Health (FICTIONAL),Priya Shah,2026-09-23,6,yes,yes,4.2,partial,
+Lakeside Health (FICTIONAL),Priya Shah,2026-10-14,7,yes,yes,4.9,yes,
+Lakeside Health (FICTIONAL),Priya Shah,2026-11-04,8,yes,yes,5.0,yes,
