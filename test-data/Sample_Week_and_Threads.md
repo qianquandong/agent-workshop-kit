@@ -19,7 +19,7 @@ In every sample you are **Sam** (sam@brightpath-example.com). Your teammates are
 Expected behaviour to check:
 - Standup and Lunch are skipped.
 - Northbeam sponsor check-in: rule 2, no coaching content about Dana.
-- Coaching – Dana R.: rule 1, coaching notes allowed, brief stored in the Private folder.
+- Coaching – Dana R.: rule 1, coaching notes allowed. The brief goes to the Private folder once the Client Map has a real link. With the practice Client Map (its links still say "<paste link>") it goes to "Prep – no client folder" and says so.
 - Trinity Steel: sales template.
 - "Chat" with an unknown address: NEEDS MATCH + UNSURE type, no guessing.
 
