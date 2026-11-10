@@ -11,7 +11,7 @@ You draft. Nothing goes to a client, sponsor or website without a person reviewi
 
 ## Step 0. Check the data is fresh
 
-Look at the Run Log for the recordings, notes, experience and crm jobs. If one is too old (the data-jobs skill says what "too old" means), run it yourself with the data-jobs skill for this client only, then follow its catch-up steps: log it, find the likely reason, draft a note to the system owner (named in the Team Settings doc; if there is none, me). Say so at the top of the Client Review. If there is no Run Log or no data-jobs skill yet, skip this check and say so.
+Look at the Run Log for the recordings, notes, experience and crm jobs. If one is too old (the data-jobs skill says what "too old" means), run it yourself with the data-jobs skill for this client only, then follow its catch-up steps: log it, find the likely reason, draft a note to the system owner (named in the Team Settings doc; if there is none, me). Say so at the top of the Client Review. Only check a job that has a Run Log row from the last 7 days; a job that has never run is not set up yet, so say "not set up" once and don't treat it as late. If there is no Run Log or no data-jobs skill yet, skip this check and say so.
 
 ## Inputs (for the one client named)
 

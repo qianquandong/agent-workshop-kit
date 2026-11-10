@@ -50,9 +50,9 @@ Then set up each agent with [How_to_Use.md](How_to_Use.md). The schedule prompts
 
 In the practice data you are **Sam**. Attach the files named in each line.
 
-- Meeting Prep: attach `test-data/Sample_Week_and_Threads.md`, `templates/Client_Map.csv`, `templates/Team_Settings.md`. Ask: "Use the meeting-prep skill on the sample week in the attached files instead of my calendar and Drive. In this sample I am Sam."
-- Follow-Up Nudger: attach the same sample file plus `templates/Nudge_Log.csv` and `templates/Team_Settings.md`. Ask: "Use the follow-up-nudger skill on the sample threads and the sample Nudge Log in the attached files, not my mailbox. Today is Nov 10, 2026. In this sample I am Sam."
-- Retainer Intelligence: attach `test-data/Sample_Transcript_Lakeside_Session8.txt`, `templates/Client_Experience.csv`, `templates/Client_Map.csv`. Ask: "Use the retainer-intelligence skill for Lakeside Health (sample data attached). Period: last 90 days. Give me all four outputs."
+- Meeting Prep: attach `test-data/Sample_Week_and_Threads.md`, `templates/Client_Map.csv`, `templates/Team_Settings.md`. Ask: "Use the meeting-prep skill on the sample week in the attached files instead of my calendar and Drive. In this sample I am Sam. Show everything here in the chat; don't create calendar events or files."
+- Follow-Up Nudger: attach the same sample file plus `templates/Nudge_Log.csv` and `templates/Team_Settings.md`. Ask: "Use the follow-up-nudger skill on the sample threads and the sample Nudge Log in the attached files, not my mailbox. Today is Nov 10, 2026. In this sample I am Sam. Show the drafts here in the chat; don't create Gmail drafts."
+- Retainer Intelligence: attach `test-data/Sample_Transcript_Lakeside_Session8.txt`, `templates/Client_Experience.csv`, `templates/Client_Map.csv`. Ask: "Use the retainer-intelligence skill for Lakeside Health (sample data attached). Period: last 90 days. Give me all four outputs. Show everything here in the chat; don't create files."
 
 The answers you should get are at the end of `test-data/Sample_Week_and_Threads.md`.
 

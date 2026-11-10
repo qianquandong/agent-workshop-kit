@@ -22,7 +22,7 @@ Every job here can run three ways, and does the same thing each time:
 
 ## Where things live
 
-- Drive: Team Settings (a Doc: our internal email domain, who is on the team, the system owner, the sales owners, our program names), Client Map, Contact Log, CRM Check, Client Experience, Nudge Log, Run Log (all Sheets); Notes folder; Inbox › Transcripts; Unsorted; `Team Workspace/Clients/[Client]/` with 00 Client Summary, 02 Recaps, 03 Proposals & Contracts, 04 Workbooks & Handouts, 05 Research; each client's private folder (Transcripts, Coaching Notes) lives in `Private – coaches only/[Client]/`, outside Team Workspace, and its link is in the Client Map.
+- Drive: Team Settings (a Doc: our internal email domain, who is on the team, the system owner, the sales owners, our program names), Client Map, Contact Log, CRM Check, Client Experience, Nudge Log, Run Log (all Sheets); Notes folder; Inbox › Transcripts; Unsorted; `Team Workspace/Clients/[Client]/` with 00 Client Summary, 02 Recaps, 03 Proposals & Contracts, 04 Workbooks & Handouts, 05 Research; each client's private folder ("Private – [Client]", with Transcripts and Coaching Notes) is made by that client's coach in their own Drive, and its link is in the Client Map.
 - ClickUp: each client's record and list. GoHighLevel: sales pipelines, calls and texts. Gmail and Google Calendar.
 
 ## The jobs
@@ -34,7 +34,7 @@ Find notes files in the Notes folder edited since the last run (or for the asked
 **Too old:** a file in the Notes folder edited more than 2 hours ago with no Run Log row for it.
 
 ### 2. recordings
-Find Zoom transcripts in Inbox › Transcripts (and, by hand, recent Zoom cloud recordings if Zoom is connected). Match each to its calendar event and client. Move it to Private › Transcripts as "Transcript – [date] – [client] – [call type]". Use the meeting-prep skill in recap mode: recap in 02 Recaps, a Contact Log row of type recap, update the 00 Client Summary, follow-up email as a Gmail draft.
+Find Zoom transcripts in Inbox › Transcripts (and, by hand, recent Zoom cloud recordings if Zoom is connected). Match each to its calendar event and client. Move it to Private › Transcripts as "Transcript – [date] – [client] – [call type]". Use the meeting-prep skill in recap mode: recap in 02 Recaps (for a coaching session, in the client's private folder › Coaching Notes), a Contact Log row of type recap, update the 00 Client Summary, follow-up email as a Gmail draft.
 **Too old:** a Zoom meeting that ended more than 2 hours ago with no recap.
 
 ### 3. email
@@ -74,6 +74,8 @@ Compare today's Zoom recordings, Notes files, GHL calls and texts (if used) and 
 **Too old:** no night-check run in the last 26 hours.
 
 ## When data is too old (catch-up)
+
+A job with no Run Log row in the last 7 days is not set up yet. Don't treat it as late and don't write a note about it; the night check covers it.
 
 1. **Run the job yourself**, only for what you need right now (for example, one client's missing recap), unless asked to run it fully.
 2. **Log it** in the Run Log as "catch-up by an agent", with which job was late and since when.

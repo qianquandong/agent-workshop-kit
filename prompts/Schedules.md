@@ -1,6 +1,6 @@
 # Schedules
 
-Paste each prompt into a new scheduled task in Claude (Scheduled), and pick the time shown.
+Make a new scheduled task in Claude (Scheduled), pick the time shown, and paste the prompt as the task's instructions.
 
 ## Meeting Prep · every Friday at 3 PM
 
@@ -29,9 +29,7 @@ Use the retainer-intelligence skill for each client in our Client Map that has a
 ## Night check · every night at 10 PM · each person sets their own
 
 ```
-Create a scheduled task that runs every night at 10 PM.
-
-Each run: use the data-jobs skill and run the night-check job. Check that today's work landed: compare today's Zoom recordings, files in the Notes folder, GoHighLevel calls and texts (if that job is on), and emails with Client Map contacts against today's Contact Log. For anything missing, do what its job would have done: file it, log it, write the recap, propose the tasks. Also run the tasks job for today's Contact Log rows of type notes, recap or call that have no ClickUp tasks yet. Add a Run Log row for everything you caught up on, then write me a short Gmail draft listing anything you couldn't match.
+Use the data-jobs skill and run the night-check job. Check that today's work landed: compare today's Zoom recordings, files in the Notes folder, GoHighLevel calls and texts (if that job is on), and emails with Client Map contacts against today's Contact Log. For anything missing, do what its job would have done: file it, log it, write the recap, propose the tasks. Also run the tasks job for today's Contact Log rows of type notes, recap or call that have no ClickUp tasks yet. Add a Run Log row for everything you caught up on, or one row saying "nothing new", then write me a short Gmail draft listing anything you couldn't match.
 ```
 
 ## After a call · whenever you need it (not scheduled)

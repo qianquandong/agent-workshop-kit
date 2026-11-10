@@ -24,7 +24,7 @@ The team's own settings live in the **Nudge Rules** doc in Drive (wait times, a 
 
 ## Step 0. Check the data is fresh
 
-Look at the Run Log for the email, crm and calls-texts (if used) jobs. If one is too old (the data-jobs skill says what "too old" means), run it yourself with the data-jobs skill for the last 2 days, then follow its catch-up steps: log it, find the likely reason, draft a note to the system owner (named in the Team Settings doc; if there is none, me). Mention it at the top of the digest. If there is no Run Log or no data-jobs skill yet, skip this check and say so in the digest.
+Look at the Run Log for the email, crm and calls-texts (if used) jobs. If one is too old (the data-jobs skill says what "too old" means), run it yourself with the data-jobs skill for the last 2 days, then follow its catch-up steps: log it, find the likely reason, draft a note to the system owner (named in the Team Settings doc; if there is none, me). Mention it at the top of the digest. Only check a job that has a Run Log row from the last 7 days; a job that has never run is not set up yet, so say "not set up" once and don't treat it as late. If there is no Run Log or no data-jobs skill yet, skip this check and say so in the digest.
 
 ## Step 1. Find candidate threads
 
@@ -52,10 +52,12 @@ Count business days (Mon–Fri) after the day of my last message, up to and incl
 - The owner is whoever on our team last emailed this person. You can only see MY mailbox, so the shared **Nudge Log** sheet is how you know what my teammate did.
 - Open the Nudge Log. Match the contact by email (or by name and company if there is no email). If the same contact has a row from the other teammate in the last 10 days, skip it and list it under "Owned by <name>".
 - If the Client Map names a different teammate as this client's owner, say so in the digest, but still draft if I sent the last email.
+- For a renewal with no email thread, the owner is the client's coach_owner in the Client Map. Draft only if that is me; otherwise list it under "Owned by <name>".
 
 ## Step 4. Count nudges
 
 Use Gmail labels: `Nudge-1`, `Nudge-2`.
+- First, for each Nudge Log row of mine with status "draft ready": if that nudge now shows in Sent, add its label (`Nudge-1` or `Nudge-2`) to the thread. If the draft is gone and nothing was sent, add no label.
 - An unsent draft from an earlier run is still sitting in the thread: do nothing new. List it under "Draft waiting for you". A nudge only counts once I have sent it.
 - No label: this is nudge 1.
 - `Nudge-1`: this is nudge 2.
@@ -74,7 +76,7 @@ Reply in the same thread, as a Gmail draft. Rules:
 - Use the team-voice skill if installed.
 - Nudge 2 is shorter than nudge 1 and gives an easy out ("If now isn't the right time, tell me when to come back to this.").
 
-Then: add the label (`Nudge-1` or `Nudge-2`) and add a row to the Nudge Log using its own columns: date, owner, contact_email, contact_name, company, stage, days_quiet, nudge_number, draft_link, status. Stage comes from GoHighLevel or ClickUp if you can see it, otherwise write what the thread is about (proposal, renewal, pilot). Status is one of: draft ready, decision needed, skipped. If today's row for this contact already exists, update it; don't add a second one.
+Then add a row to the Nudge Log (don't add the label yet; Step 4 adds it once the nudge is sent), using its own columns: date, owner, contact_email, contact_name, company, stage, days_quiet, nudge_number, draft_link, status. Stage comes from GoHighLevel or ClickUp if you can see it, otherwise write what the thread is about (proposal, renewal, pilot). Status is one of: draft ready, decision needed, skipped. If today's row for this contact already exists, update it; don't add a second one.
 
 ## Step 6. Daily digest
 
