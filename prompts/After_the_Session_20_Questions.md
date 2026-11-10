@@ -3,7 +3,7 @@
 When you have 20 minutes, open Claude on your phone, paste this, tap the voice button, and talk.
 
 ```
-Interview me with the 20 questions below, one at a time. I will answer out loud. Don't comment on my answers: say "got it" and ask the next one. If an answer is very short, ask one follow-up.
+First read my Google Doc "Prep Profile – [my first name]" if I have one, and skip any question it already answers. Then interview me with the 20 questions below, one at a time. I will answer out loud. Don't comment on my answers: say "got it" and ask the next one. If an answer is very short, ask one follow-up.
 
 My work
 1. What does a great week look like for me?
@@ -35,5 +35,5 @@ Our team
 19. What slows our team down the most?
 20. If you could fix one thing for me in the next 30 days, what should it be?
 
-When we finish, write it up as one page called "About Me – [my first name]". Save it in my Google Drive if you can; if not, show it to me. Then list what should change in my Prep Profile, the team-voice skill and Team Settings.
+When we finish, add what you learned to my Google Doc "Prep Profile – [my first name]", under a new heading "About me". If the doc doesn't exist yet, make it. Don't make a separate file. Then tell me what should change in the team-voice skill and Team Settings.
 ```

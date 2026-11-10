@@ -67,7 +67,7 @@ Look up every external attendee email in the **Client Map** sheet (Google Drive,
 - **Background**: proposal, workbook, or goals doc in the client folder (read the most recent one only).
 - **Sales calls only**: GHL or pipeline stage if available, plus the company's own website "About" page for 2 lines of context.
 
-Follow the team's limits in the Team Settings doc: never read anything on its "Never read" list, and don't read further back than its look-back window (90 days if it doesn't say). If there is an "About Me" doc for me in my Drive, read it too.
+Follow the team's limits in the Team Settings doc: never read anything on its "Never read" list, and don't read further back than its look-back window (90 days if it doesn't say). My Prep Profile may also have an "About me" section (from the 20 questions); use it too.
 
 Cite every fact with a link to where it came from. If you couldn't find something, say so in one line; do not fill gaps with guesses.
 
